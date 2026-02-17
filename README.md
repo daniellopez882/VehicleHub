@@ -1,10 +1,4 @@
-# 🚗 VehicleHub
 
-**Author:** Daniel Lopez  
-**GitHub:** [daniellopez882](https://github.com/daniellopez882)  
-**Email:** daniellopezorta39@gmail.com  
-
----
 
 VehicleHub - A premium cars showcase web project developed using React, NextJS 13, Typescript, and Tailwind CSS. The website provides an immersive experience for users interested in exploring various car models.
 
